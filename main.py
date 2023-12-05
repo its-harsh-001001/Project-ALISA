@@ -15,7 +15,7 @@ def introduction():
     speak_eng("My name is alisa and I am a virtual assistant")
     
 def ai_chat(prompt):
-    openai.api_key = "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"
+    openai.api_key = "YOUR_API_KEY_HERE"
 
     response = openai.chat.completions.create(
     model="gpt-3.5-turbo-1106",
