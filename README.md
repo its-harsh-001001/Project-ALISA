@@ -5,7 +5,7 @@ It can also have Human like conversations!!
 
 *MODULES USED*
 
-The following modules have been used to make this project--
+The following modules have been used to make this project-- <br />
 1.OPENAI <br />
 2.PYTTSX3 <br />
 3.SPEECH RECOGNITION <br />
@@ -17,7 +17,7 @@ The following modules have been used to make this project--
 
 *FEATURES / TASKS*
 
-ALISA can perform the following tasks--
+ALISA can perform the following tasks-- <br />
 1.Answer questions using artificial intelligence <br />
 2.Can perform human like conversations using AI <br />
 3.It is fully voice operated <br />
