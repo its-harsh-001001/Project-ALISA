@@ -1,9 +1,9 @@
-*PROJECT ALISA*
+*--PROJECT ALISA--*
 
 ALISA is a virtual assistant that can perform various day to day tasks and make your life easier!
 It can also have Human like conversations!!
 
-*MODULES USED*
+*--MODULES USED--*
 
 The following modules have been used to make this project-- <br />
 1.OPENAI <br />
@@ -15,7 +15,7 @@ The following modules have been used to make this project-- <br />
 7.KEYBOARD <br />
 8.REQUESTS <br />
 
-*FEATURES / TASKS*
+*--FEATURES / TASKS--*
 
 ALISA can perform the following tasks-- <br />
 1.Answer questions using artificial intelligence <br />
